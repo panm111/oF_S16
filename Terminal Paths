@@ -12,3 +12,7 @@ git add .//stagin everything
 git commit -m "week2"
 git push -u origin master
 
+
+to get updated 
+cd into folder
+git pull
