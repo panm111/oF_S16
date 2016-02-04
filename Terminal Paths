@@ -1,0 +1,12 @@
+1. cd (copy and paste path of folder)
+2. mkdir NAMEFOLDER
+3. ls //checks what's in the folder
+4. cd NAMEFOLDER
+5. touch README.md
+
+
+adding oF homework
+cd into the folder
+git add
+git commit -m "week2"
+git push -u origin master
