@@ -5,8 +5,10 @@
 5. touch README.md
 
 
-adding oF homework
+push everything to git
 cd into the folder
-git add
+ls
+git add .//stagin everything
 git commit -m "week2"
 git push -u origin master
+
