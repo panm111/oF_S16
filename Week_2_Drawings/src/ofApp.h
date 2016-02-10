@@ -18,6 +18,7 @@ public:
     void windowResized(int w, int h);
     void dragEvent(ofDragInfo dragInfo);
     void gotMessage(ofMessage msg);
+    
     //ofPoint is a built in function in oF
     void diamond(ofPoint center, float width, float height);
     
