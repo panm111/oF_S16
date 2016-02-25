@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DE2272C1-A632-4935-9AC8-53B06753643E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Week_3_Recursive_Circles</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F6169432568DAB02BAFF40E667AF67EC621A79CF</key>
+		<string>https://github.com/panm111/oF_S16.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Week_3_Recursive_Circles/Week_3_Recursive_Circles.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F6169432568DAB02BAFF40E667AF67EC621A79CF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/panm111/oF_S16.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F6169432568DAB02BAFF40E667AF67EC621A79CF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F6169432568DAB02BAFF40E667AF67EC621A79CF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>oF_S16</string>
+		</dict>
+	</array>
+</dict>
+</plist>
