@@ -10,6 +10,7 @@
 #define __Week_5_Recursion_Project__Branch__
 
 #include <stdio.h>
+#include "ofMain.h"
 
 #endif /* defined(__Week_5_Recursion_Project__Branch__) */
 

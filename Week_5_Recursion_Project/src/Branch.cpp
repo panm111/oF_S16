@@ -18,19 +18,19 @@ void Branch::setup(){
 }
 
 void Branch::display(float length, float theta){
-//    ofTranslate(ofGetWidth()/2, ofGetHeight()/2);
-//    display(200, cos(ofGetElapsedTimef())*100);
+    //    ofTranslate(ofGetWidth()/2, ofGetHeight()/2);
+    //    display(200, cos(ofGetElapsedTimef())*100);
     
-//    ofLine(x1,y1,x2,y2)
+    //    ofLine(x1,y1,x2,y2)
     ofLine(0,length,0, -length);
     ofLine(-length,0,length,0);
     
-//    ofTranslate(float x, float y, float z)
+    //    ofTranslate(float x, float y, float z)
     ofTranslate(0, -length);
     length = length/2;
-   
+    
     ofPushMatrix();
-        if(length>2){
+    if(length>2){
         
         ofPushMatrix();
         ofRotate(theta);
@@ -47,9 +47,9 @@ void Branch::display(float length, float theta){
     
     ofPushMatrix();
     ofRotate(180);
-//    ofTranslate(length, ofGetHeight());
+    //    ofTranslate(length, ofGetHeight());
     ofTranslate(0, -200);
-//    ofTranslate(length, length);
+    //    ofTranslate(length, length);
     if(length>2){
         
         ofPushMatrix();
@@ -65,6 +65,6 @@ void Branch::display(float length, float theta){
     }
     ofPopMatrix();
     
-
+    
     
 }
