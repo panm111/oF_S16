@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>6F33645D-09CA-4105-8BF6-1EB34D35EFA9</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Week_6_Problem_Solving</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>F6169432568DAB02BAFF40E667AF67EC621A79CF</key>
 		<string>https://github.com/panm111/oF_S16.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Week_6_Problem_Solving/Week_6_Problem_Solving.xcodeproj/project.xcworkspace</string>
+	<string>Week_6_Problem_Solving/Week_6_Problem_Solving.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>F6169432568DAB02BAFF40E667AF67EC621A79CF</key>
